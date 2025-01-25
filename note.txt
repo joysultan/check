@@ -1,0 +1,39 @@
+Assignment 2
+Examiner's Feedback
+
+# Navbar-Section
+1. Logo and Site Name Positioned at the left → okay
+2. 3-4 Colorful Navigation links are centered → okay
+3. Contact Button at the right → okay
+4. Make it responsive for mobile → okay
+
+# Banner-Section
+5. Heading with different colored text, a paragraph, and a button at left → okay
+6. image is showing perfectly on the right → okay
+7. Make it responsive for mobile → okay
+
+# Standard-Curriculum-Section
+8. Background Image found → okay
+9. a center aligned section's title → okay
+10. Three cards Found with center-aligned content → okay
+11. Center-aligned arrow buttons found → okay
+12. Make it responsive for mobile → okay
+
+# Our-Stories-Section
+13. a Background Image with a gradient as figma → okay
+14. Five cards found with proper design as figma → okay
+15. Make it responsive for mobile → okay
+
+# Footer-Section
+16. Footer have a Background → okay
+17. Logo, site name, and about text found as figma in column 1 → okay
+18. Navigation links as figma → okay
+19. social media icons same as figma → okay
+20. Make it responsive for mobile → okay
+
+# Challenges-Requirements
+21. Date positioned between image and content as figma on every cards → okay
+22. Card don't have any paragraph in Mobile view → okay
+23. hide arrow button group from the statndard curriculum section in Mobile view → okay
+24. A Section Found with Marquee → okay
+25. Marquee Section working perfectly → okay
